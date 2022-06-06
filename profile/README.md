@@ -20,7 +20,7 @@ The main purpose is to collect all my open source projects at one place.
     <a href="https://www.twitter.com/iizakhil/">
     <img src="https://img.shields.io/badge/twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a href="https://github.com/SpectraXCode" target="_blank">
+    <a href="https://github.com/AKH1LS" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="mailto: iamakhil27@.protonmail.ch">
