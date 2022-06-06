@@ -2,7 +2,7 @@
 
 This organization contains Telegram bot projects. Founded and maintained by [Akhil P. Singh](https://github.com/AKH1LS).
 This organization made to collect all the stuffs, bot, lists whatever I did for Telegram.
-The main purpose is to provide open source projects...
+The main purpose is to collect all my open source projects at one place.
 
 ![LOGO](https://te.legra.ph/file/d8ab193e83008f167e521.jpg)
 
@@ -28,5 +28,23 @@ The main purpose is to provide open source projects...
     </a>
 </p>
 
+## Frequent Languages Used
 
+- [Python3](www.python.org).
+- Dockerfile.
+- Soon in other languages also.
 
+## Tools
+
+- [Heroku](www.heroku.com)
+- [MongoDb](www.mongodb.com)
+- [SQL](www.sql.org)
+
+-------
+
+All SpectraXCode code works can be seen on Telegram as [Akira](https://telegram.dog/Akira_News). Akira project is Telegram
+based Project which help users to make Telegram bit effective. 
+
+-------
+
+Thanks for being here, don't forget to checkout my projects and if you liked, star 🌟 the projects and follow me.
