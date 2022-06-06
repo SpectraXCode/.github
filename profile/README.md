@@ -42,7 +42,7 @@
 
 -------
 
-All SpectraXCode code works can be seen on Telegram as [Akira](https://telegram.dog/Akira_News). Akira project is Telegram
+All SpectraXCode works can be seen on Telegram as [Akira](https://telegram.dog/Akira_News). Akira project is Telegram
 based Project which help users to make Telegram bit effective. 
 
 Thanks for being here, don't forget to checkout my projects and if you liked, star 🌟 the projects and follow me.
