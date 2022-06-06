@@ -1,6 +1,7 @@
 ## SpectraXCode
 
-This organization contains Telegram bot projects. Founded and maintained by [Akhil P. Singh](https://github.com/AKH1LS).
+This organization contains Telegram bot projects. Founded and maintained by [Akhil](https://github.com/AKH1LS).
+
 This organization made to collect all the stuffs, bot, lists whatever I did for Telegram.
 The main purpose is to collect all my open source projects at one place.
 
@@ -30,15 +31,15 @@ The main purpose is to collect all my open source projects at one place.
 
 ## Frequent Languages Used
 
-- [Python3](www.python.org).
-- Dockerfile.
-- Soon in other languages also.
+- Python3
+- Dockerfile
+- Soon in other languages also
 
 ## Tools
 
-- [Heroku](www.heroku.com)
-- [MongoDb](www.mongodb.com)
-- [SQL](www.sql.org)
+- Heroku
+- MongoDb
+- SQL
 
 -------
 
