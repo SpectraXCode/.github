@@ -1,4 +1,4 @@
-## SpectraXCode
+# SpectraXCode
 
 This organization contains Telegram bot projects. Founded and maintained by [Akhil](https://github.com/AKH1LS).
 This organization made to collect all the stuffs, bot, lists whatever I did for Telegram.
